@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Problem I Encountered:
+I am not able to use string to access a List, which is making me unable to implement the functionallity of switching tabs and viewing images particular to that tab only.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
