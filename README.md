@@ -1,9 +1,6 @@
 # ed_assignment
 
-A new Flutter project.
-
-Problem I Encountered:
-I am not able to use string to access a List, which is making me unable to implement the functionallity of switching tabs and viewing images particular to that tab only.
+Intern Assignment assigned to me by Earning Designs, Here is my Solution
 
 ## Getting Started
 
@@ -17,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/74983334/219668646-c39cd3db-f742-49d2-8b65-6343efc75877.png)
